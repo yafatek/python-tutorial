@@ -3,6 +3,10 @@
 # A,B,C,D,E,F,G,H,I,J...Z,+,-,#,$,%,&,~./,":  | \ ; ==> Characters. محارف
 # hello World, Malek went to School, Malek Loves Programming languages, Malek Likes Shawarma. ==> Strings السلاسل
 
+
+# Hi Malek, Welcome To GitHub
+
+
 # todo
 #  Learn Storing Data Values, Bit,Byte,MB,GB ...etc.
 

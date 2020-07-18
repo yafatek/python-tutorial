@@ -39,6 +39,7 @@ print(nums[3])
 # List Type. arrays index always start from ZERO (0).  00000000000
 # 0 , 1 ,2, 3
 list = [123, 'abc', 10.2, 'd']
+
 print(list[2])
 
 list1 = ['hello', 'world']
